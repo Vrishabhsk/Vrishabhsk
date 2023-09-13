@@ -2,7 +2,7 @@
 
 ### :guard: About me : 
 
-- 👾 Autodidact Full Stack Developer.
+- 👾 Powerful Full Stack Developer.
 
 - 💪🏽 Websites and Application
 
