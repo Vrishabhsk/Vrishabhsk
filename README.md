@@ -4,11 +4,9 @@
 
 - 👾 Powerful Full Stack Developer.
 
-- 💪🏽 Websites and Application
+- 💪🏽 React Native Developer
 
 - 🔭 Web3 and Blockchain
-
-- 🙇🏻‍♂️ Everything Tech
 
 ### 🔥 My Stats : 
 
